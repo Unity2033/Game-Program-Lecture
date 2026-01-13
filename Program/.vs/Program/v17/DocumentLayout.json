@@ -1,10 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Program\\",
+  "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Program\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{3F8714A4-D0FE-4922-9C87-7707A5E6AAAE}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{3F8714A4-D0FE-4922-9C87-7707A5E6AAAE}|Program.vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Program\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{3F8714A4-D0FE-4922-9C87-7707A5E6AAAE}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1280268-7389-48E8-ABFF-39FDF8694FA0}|..\\Class1th (Input System)\\Class1th (Input System).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class1th (Input System)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,7 +17,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 179,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,13 +41,26 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class1th (Input System)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class1th (Input System)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class1th (Input System)\\source.c",
+              "RelativeToolTip": "..\\Class1th (Input System)\\source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-13T11:09:35.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "source.c",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Program\\source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Program\\source.c",
               "RelativeDocumentMoniker": "source.c",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Program\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AQIAABkAAAAAAAAAAAAzwCEAAAADAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADUAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-12T11:10:48.275Z",
               "EditorCaption": ""
