@@ -13,6 +13,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class3th (File Input & Outp
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class4th (Color System)", "..\Class4th (Color System)\Class4th (Color System).vcxproj", "{C65AA88C-5D01-433C-A138-3CC502AFD32F}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Class5th (Double Buffering)", "..\Class5th (Double Buffering)\Class5th (Double Buffering).vcxproj", "{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -61,6 +63,14 @@ Global
 		{C65AA88C-5D01-433C-A138-3CC502AFD32F}.Release|x64.Build.0 = Release|x64
 		{C65AA88C-5D01-433C-A138-3CC502AFD32F}.Release|x86.ActiveCfg = Release|Win32
 		{C65AA88C-5D01-433C-A138-3CC502AFD32F}.Release|x86.Build.0 = Release|Win32
+		{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}.Debug|x64.ActiveCfg = Debug|x64
+		{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}.Debug|x64.Build.0 = Debug|x64
+		{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}.Debug|x86.ActiveCfg = Debug|Win32
+		{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}.Debug|x86.Build.0 = Debug|Win32
+		{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}.Release|x64.ActiveCfg = Release|x64
+		{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}.Release|x64.Build.0 = Release|x64
+		{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}.Release|x86.ActiveCfg = Release|Win32
+		{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{3F8714A4-D0FE-4922-9C87-7707A5E6AAAE}|Program.vcxproj|solutionrelative:source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{6AB63A7C-ABB9-4967-9B8A-9DFEEF98814A}|..\\Class5th (Double Buffering)\\Class5th (Double Buffering).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class5th (Double Buffering)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C65AA88C-5D01-433C-A138-3CC502AFD32F}|..\\Class4th (Color System)\\Class4th (Color System).vcxproj|C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class4th (Color System)\\source.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
@@ -29,7 +32,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 179,
-          "SelectedChildIndex": 10,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -55,6 +58,19 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "source.c",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class5th (Double Buffering)\\source.c",
+              "RelativeDocumentMoniker": "..\\Class5th (Double Buffering)\\source.c",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class5th (Double Buffering)\\source.c",
+              "RelativeToolTip": "..\\Class5th (Double Buffering)\\source.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGIAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-22T11:20:07.446Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class4th (Color System)\\source.c",
               "RelativeDocumentMoniker": "..\\Class4th (Color System)\\source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class4th (Color System)\\source.c",
@@ -65,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class3th (File Input \u0026 Output)\\source.c",
               "RelativeDocumentMoniker": "..\\Class3th (File Input \u0026 Output)\\source.c",
@@ -77,7 +93,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "stdio.h",
               "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdio.h",
@@ -89,7 +105,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class2th (Time)\\source.c",
               "RelativeDocumentMoniker": "..\\Class2th (Time)\\source.c",
@@ -101,7 +117,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "source.c",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Class1th (Input System)\\source.c",
               "RelativeDocumentMoniker": "..\\Class1th (Input System)\\source.c",
@@ -119,7 +135,7 @@
               "RelativeDocumentMoniker": "source.c",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\Game-Program-Lecture\\Program\\source.c",
               "RelativeToolTip": "source.c",
-              "ViewState": "AQIAAG8AAAAAAAAAAAAmwHwAAAAKAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-01-12T11:10:48.275Z",
               "EditorCaption": ""
